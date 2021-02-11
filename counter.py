@@ -10,4 +10,4 @@ total_cents = quarters * 25 + dimes * 10 + nickels * 5 + pennies * 1
 dollars = total_cents // 100
 cents = total_cents % 100
 
-print("The total is ", dollars, "dollars and ", cents, "cents")
+print("The total is", dollars, "dollars and", cents, "cents")
